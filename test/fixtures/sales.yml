@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  client: one
+  sale_date: 2021-03-18
+  user: one
+  discount: one
+  notes: MyText
+
+two:
+  client: two
+  sale_date: 2021-03-18
+  user: two
+  discount: two
+  notes: MyText
